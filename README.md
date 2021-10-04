@@ -1,1 +1,3 @@
-# CF-BData-Modeling
+# CFB-Data-Modeling
+---
+I plan to collect college football data and use it to build statistical models that rank the teams and predict weekly matchups. Predicting weekly matchups will be broken down into winning straight up, against the spread, and over/under totals. I also plan to add functionality to show the spreads and totals that have changed the most over the course of the week using data from various legal sports betting companies. I will be able to track the success of the different models as I add complexity throughout the project, and do an analysis of what worked and what didn't work at the end of the semester.
